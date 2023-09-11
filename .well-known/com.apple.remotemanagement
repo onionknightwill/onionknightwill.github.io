@@ -1,0 +1,9 @@
+{
+    "Servers":
+    [
+        {
+        "Version":"mdm-byod",
+        "BaseURL":"https://ds800.airwatchportals.com/DeviceManagement/Enrollment/AccountDrivenUserEnroll"
+        }
+    ]
+}
